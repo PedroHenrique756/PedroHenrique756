@@ -7,7 +7,11 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenrique756&layout=compact&hide_border=true&title_color=2688c9&text_color=2688c9&bg_color=0d1117" />
 </div>
 
-//cobra
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroHenrique756/PedroHenrique756/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PedroHenrique756/PedroHenrique756/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PedroHenrique756/PedroHenrique756/output/github-contribution-grid-snake.svg">
+</picture>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=PedroHenrique756&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
