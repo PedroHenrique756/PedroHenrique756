@@ -7,18 +7,8 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenrique756&layout=compact&hide_border=true&title_color=2688c9&text_color=2688c9&bg_color=0d1117" />
 </div>
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroHenrique756/PedroHenrique756/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PedroHenrique756/PedroHenrique756/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PedroHenrique756/PedroHenrique756/output/github-contribution-grid-snake.svg">
-</picture>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PedroHenrique756&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
 <div align="center">  
-<a href="https://www.instagram.com/2wd.ph/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://www.instagram.com/2wd.ph/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white"</a>
 </div> 
  
 ### My skills
@@ -38,6 +28,12 @@
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroHenrique756/PedroHenrique756/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PedroHenrique756/PedroHenrique756/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PedroHenrique756/PedroHenrique756/output/github-contribution-grid-snake.svg">
+</picture>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2688c9&height=120&section=footer"/>
 
