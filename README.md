@@ -11,10 +11,10 @@
 </div>
  
 ### 📚My skills
- <img src="https://skillicons.dev/icons?i=html,css,python,javascript,nodejs,mysql" /><br>
+ <img src="https://skillicons.dev/icons?i=html,css,python,django,javascript,nodejs,mysql" /><br>
  
 ### ⚙️Tools
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,notion,figma,git,github,windows " /><br>
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,figma,git,github,windows " /><br>
 
 <a href="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/green.gif"><img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art-2/green.gif" alt="Fallout GIF" style="width:auto; height:auto"/></a>
 
