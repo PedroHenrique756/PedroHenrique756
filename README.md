@@ -17,6 +17,3 @@
 <img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,figma,git,github,windows " /><br>
 
 <img align="center" alt="coding-gif" width="1100" height="300" src="https://i.pinimg.com/originals/c8/4f/b7/c84fb740471d58ba9597ace28969d490.gif">
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
-
