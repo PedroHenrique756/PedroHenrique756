@@ -11,9 +11,9 @@
 </div>
  
 ### 📚My skills
- <img src="https://skillicons.dev/icons?i=html,css,python,django,javascript,nodejs,mysql" /><br>
+ <img src="https://skillicons.dev/icons?i=html,css,python,django,javascript,nodejs,mysql,postgres" /><br>
  
 ### ⚙️Tools
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,figma,git,github,windows " /><br>
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,sublime,figma,git,github,windows " /><br>
 
 <img align="center" alt="coding-gif" width="1100" height="300" src="https://i.pinimg.com/originals/c8/4f/b7/c84fb740471d58ba9597ace28969d490.gif">
