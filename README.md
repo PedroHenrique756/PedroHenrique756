@@ -11,7 +11,7 @@
 </div>
  
 ### 📚My skills
- <img src="https://skillicons.dev/icons?i=html,css,python,django,javascript,nodejs,mysql,postgres" /><br>
+ <img src="https://skillicons.dev/icons?i=html,css,python,django,javascript,nodejs,mysql,postgres,react" /><br>
  
 ### ⚙️Tools
 <img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,sublime,figma,git,github,windows " /><br>
